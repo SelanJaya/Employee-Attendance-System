@@ -197,6 +197,7 @@ The system is designed using the Model-View-Controller (MVC) architecture and su
 | HRD               | azhar    | azhar123  |
 | Academician       | najmi    | najmi     |
 | Supporting Staff  | mat      | mat       |
+| Head of PTJ       | aimi     | azhar123  |
 
 ## ⚠️ Notes
 
