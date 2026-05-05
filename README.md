@@ -172,6 +172,14 @@ Figure 39:  HRD Monthly Report Generate
 
 ---
 
+## 🔐 Sample Credentials
+
+| Role              | Username | Password  |
+|-------------------|----------|-----------|
+| HRD               | azhar    | azhar123  |
+| Academician       | najmi    | najmi     |
+| Supporting Staff  | mat      | mat       |
+
 ## ⚠️ Notes
 
 * This project was developed as part of coursework
