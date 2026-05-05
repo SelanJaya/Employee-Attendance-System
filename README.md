@@ -1,4 +1,4 @@
-<img width="1476" height="739" alt="image" src="https://github.com/user-attachments/assets/b6cc1b06-e440-45fd-af38-eee519409ac6" /><img width="1476" height="739" alt="image" src="https://github.com/user-attachments/assets/3c412b25-cc8d-48f6-88c1-a7ce1ffff29b" /># Employee Attendance Management System
+# Employee Attendance Management System
 
 ## 📌 Overview
 
@@ -87,8 +87,11 @@ The system is designed using the Model-View-Controller (MVC) architecture and su
 <img width="868" height="539" alt="image" src="https://github.com/user-attachments/assets/7dc7edf9-9ede-4fdd-8ad5-922eba2c0b8e" />
 Figure 16 : Login Page
 
+<br>
+
 <img width="487" height="571" alt="image" src="https://github.com/user-attachments/assets/6462fda4-80a1-42f3-bbb4-f6390874bbd2" />
 Figure 17 : Register User Page
+<br>
 
 3.4.1.1 Profile Module
 
